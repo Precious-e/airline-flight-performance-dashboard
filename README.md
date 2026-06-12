@@ -37,4 +37,5 @@ This Power BI project analyzes over 1.9 million airline flight records to evalua
 
 ## Dashboard Preview
 
-(Add screenshots here)
+
+<img width="894" height="495" alt="AIRPORT DASHBOARD PNG" src="https://github.com/user-attachments/assets/bb3a4241-dc70-4482-8333-25e2c1c57fbb" />
